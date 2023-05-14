@@ -1,0 +1,45 @@
+.header{
+    width:50%;
+    height:50%;
+    margin-top: 2cm;
+    margin-left: 10cm;
+}
+.header h2{
+    margin-left:35px; 
+    font-size: xx-large;
+}
+.register{
+    text-align: left;
+    font-weight: bold;
+    font-size: large;
+}
+.register input{
+    display: block;
+    width: 15cm;
+    height: 30px; 
+    border-radius: 10px;
+    color:rgba(246,248,250,255);
+    border-color: rgba(246,248,250,255);
+}
+.register text{
+    font-size: 15px;
+    font-weight: 100;
+}
+.register text1{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+}
+.register button{
+    color: white;
+    background-color: rgba(201,233,208,255);
+    border-color: rgba(201,233,208,255);
+    width: 15cm;
+    height: 1.5cm;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+.register group{
+    display: block;
+    word-wrap:initial;
+}
