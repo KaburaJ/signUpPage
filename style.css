@@ -19,7 +19,9 @@
     height: 30px; 
     border-radius: 10px;
     color:rgba(246,248,250,255);
-    border-color: rgba(246,248,250,255);
+    border-style: none;
+    background-color: rgba(246,248,250,255);
+    /* border-color: rgba(246,248,250,255); */
 }
 .register text{
     font-size: 15px;
@@ -33,7 +35,8 @@
 .register button{
     color: white;
     background-color: rgba(201,233,208,255);
-    border-color: rgba(201,233,208,255);
+    /*border-color: rgba(201,233,208,255);*/
+    border-style: none;
     width: 15cm;
     height: 1.5cm;
     border-radius: 10px;
